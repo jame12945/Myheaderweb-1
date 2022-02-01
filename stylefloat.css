@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color: turquoise;
+    height: 50px;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+.header h3{
+   /* background-color: violet;*/
+    width: 50px;
+    float: left;
+    padding-top: 3px;
+    
+}
+.nav{
+   /* background-color: rgb(164, 235, 164);*/
+    width: 300px;
+    float: left;
+    margin-left: 40px;
+    padding-top: 3px;
+}
+.nav a{
+    margin-right: 10px;
+    text-decoration: none;
+}
